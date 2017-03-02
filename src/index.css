@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+  background-color: #00703B;
+  color: #fff;
+  text-align: center;
+}
+
+h1{
+  font-size: 30px;
+}
+
+p{
+  margin: 0;
+}
